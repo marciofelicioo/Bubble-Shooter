@@ -1,2 +1,2 @@
 # BubbleShooterReplica
-Bubble shooter Replica with processing language
+Bubble Shooter Replica using the Processing programming language
